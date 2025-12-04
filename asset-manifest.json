@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cricscore/static/css/main.4354e477.css",
+    "main.js": "/cricscore/static/js/main.986c14a2.js",
+    "static/js/453.d4660119.chunk.js": "/cricscore/static/js/453.d4660119.chunk.js",
+    "index.html": "/cricscore/index.html",
+    "main.4354e477.css.map": "/cricscore/static/css/main.4354e477.css.map",
+    "main.986c14a2.js.map": "/cricscore/static/js/main.986c14a2.js.map",
+    "453.d4660119.chunk.js.map": "/cricscore/static/js/453.d4660119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4354e477.css",
+    "static/js/main.986c14a2.js"
+  ]
+}
